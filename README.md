@@ -23,7 +23,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 * npm start to run the server
 
 # Walkthrough Video
-
+Click here:
+https://drive.google.com/file/d/1Bgpwxrs-qxew3AizR14R5r1UHdkKLzMZ/view?usp=sharing
 
 # Technologies Used
 * Express
